@@ -8,6 +8,8 @@ A simple Flutter BMI Calculator ⌚
 - Simple UI
 - Add more features
 
+<h4> 🚧 Work in Progress
+
 
 ## App 
 [![WallpaperWalaApp](https://img.shields.io/badge/Apk-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)]()

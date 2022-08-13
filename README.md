@@ -14,4 +14,4 @@ A simple Flutter BMI Calculator ⌚
 
 
 ## Web Demo
-[![BMI Calculator](https://img.shields.io/badge/Web-WallpaperApp-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/BMI/#/)
+[![BMI Calculator](https://img.shields.io/badge/Web-WallpaperApp-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/bmi/)

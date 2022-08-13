@@ -10,8 +10,8 @@ A simple Flutter BMI Calculator ⌚
 
 
 ## App 
-[![WallpaperWalaApp](https://img.shields.io/badge/Apk-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)](https://drive.google.com/file/d/1Kj1G20F6byO1n8EOpAgu5sVorDyurjx6/view?usp=sharing)
+[![WallpaperWalaApp](https://img.shields.io/badge/Apk-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)]()
 
 
 ## Web Demo
-[![WallpaperWalaApp](https://img.shields.io/badge/Web-WallpaperApp-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/wallpaperappp/#/)
+[![BMI Calculator](https://img.shields.io/badge/Web-WallpaperApp-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/BMI/#/)

@@ -6,7 +6,7 @@ A simple Flutter BMI Calculator ⌚
 
 - Calculate & Show BMI
 - Simple UI
-- Add more features
+- 
 
 <h4> 🚧 Work in Progress
 

@@ -10,10 +10,9 @@ A simple Flutter BMI Calculator ⌚
 
 <h4> 🚧 Work in Progress
 
-
 ## App 
-[![BMI Calculator](https://img.shields.io/badge/Apk-BMI-Calculator-informational?style=flat&logo=Android&color=ffcc00)]()
+[![BMI Calculator](https://img.shields.io/badge/Apk-BMI_Calculator-informational?style=flat&logo=Android&color=ffcc00)]()
 
 
 ## Web Demo
-[![BMI Calculator](https://img.shields.io/badge/Web-BMI-Calculator-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/bmi/)
+[![BMI Calculator](https://img.shields.io/badge/Web-BMI_Calculator-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/bmi/)
